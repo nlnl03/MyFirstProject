@@ -8,6 +8,8 @@ public class Main {
 		String name = s.nextLine();
 		System.out.println("Name: " + name);
 		s.close();
+		System.out.println("dfbdnbfndb: " + name);
+
 	}
 
 }
